@@ -1,6 +1,6 @@
 // Импорт изображений оперативной памяти
 import corsair_vengeance_ddr5 from "./assets/ram/corsair_vengeance_ddr5.webp";
-import gskill_tridentz_rgb from "./assets/ram/gskill_tridentz_rgb.webp";
+import gskill_tridentz_rgb from "./assets/ram/gskill_tridewnz_rgb.webp";
 import kingston_fury_beast_ddr4 from "./assets/ram/kingston_fury_beast_ddr4.webp";
 import crucial_pro_ddr5 from "./assets/ram/crucial_pro_ddr5.webp";
 

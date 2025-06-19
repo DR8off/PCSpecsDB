@@ -6,8 +6,8 @@ import asrock_z690m_itx from "./assets/motherboards/asrock_z690m_itx.webp";
 const motherboards = [
   {
     size: 'ATX',
-    name: "ASUS ROG Strix Z590-E Gaming WiFi",
-    brand: "ASUS",
+    name: "Strix Z590-E Gaming WiFi",
+    brand: "Asus",
     modules: { isWifi: true, isBluetooth: true },
     ram_slots: 4,
     ram_type: 'DDR4',
@@ -17,8 +17,8 @@ const motherboards = [
   },
   {
     size: 'Micro-ATX',
-    name: "MSI B460M PRO-VDH",
-    brand: "MSI",
+    name: "B460M PRO-VDH",
+    brand: "Msi",
     modules: { isWifi: false, isBluetooth: false },
     ram_slots: 4,
     ram_type: 'DDR4',
@@ -28,7 +28,7 @@ const motherboards = [
   },
   {
     size: 'ATX',
-    name: "Gigabyte Z790 AORUS Elite AX",
+    name: "Z790 AORUS Elite AX",
     brand: "Gigabyte",
     modules: { isWifi: true, isBluetooth: true },
     ram_slots: 4,
@@ -39,8 +39,8 @@ const motherboards = [
   },
   {
     size: 'Mini-ITX',
-    name: "ASRock Z690M-ITX/ax",
-    brand: "ASRock",
+    name: "Z690M-ITX/ax",
+    brand: "Asrock",
     modules: { isWifi: true, isBluetooth: true },
     ram_slots: 2,
     ram_type: 'DDR5',
