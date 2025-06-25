@@ -398,6 +398,126 @@ const cpus = [
     tdp_w: 125,
     image: i5_11600k,
   },
+    {
+  brand: "Amd",
+  generation: 3000,
+  name: "Ryzen 5 3600XT",
+  socket: "am4",
+  tdp_w: 95,
+  image: Ryzen_5_3600XT
+},
+{
+  brand: "Amd",
+  generation: 3000,
+  name: "Ryzen 7 3800XT",
+  socket: "am4",
+  tdp_w: 105,
+  image: Ryzen_7_3800XT
+},
+{
+  brand: "Amd",
+  generation: 3000,
+  name: "Ryzen 9 3900XT",
+  socket: "am4",
+  tdp_w: 105,
+  image: Ryzen_9_3900XT
+},
+{
+  brand: "Amd",
+  generation: 5000,
+  name: "Ryzen 5 5600X",
+  socket: "am4",
+  tdp_w: 65,
+  image: Ryzen_5_5600X
+},
+{
+  brand: "Amd",
+  generation: 5000,
+  name: "Ryzen 7 5800X",
+  socket: "am4",
+  tdp_w: 105,
+  image: Ryzen_7_5800X
+},
+{
+  brand: "Amd",
+  generation: 5000,
+  name: "Ryzen 9 5900X",
+  socket: "am4",
+  tdp_w: 105,
+  image: Ryzen_9_5900X
+},
+{
+  brand: "Amd",
+  generation: 5000,
+  name: "Ryzen 9 5950X",
+  socket: "am4",
+  tdp_w: 105,
+  image: Ryzen_9_5950X
+},
+{
+  brand: "Amd",
+  generation: 5000,
+  name: "Ryzen 5 5600G",
+  socket: "am4",
+  tdp_w: 65,
+  image: Ryzen_5_5600G
+},
+{
+  brand: "Amd",
+  generation: 7000,
+  name: "Ryzen 5 7600X",
+  socket: "am5",
+  tdp_w: 105,
+  image: Ryzen_5_7600X
+},
+{
+  brand: "Amd",
+  generation: 7000,
+  name: "Ryzen 7 7700X",
+  socket: "am5",
+  tdp_w: 105,
+  image: Ryzen_7_7700X
+},
+{
+  brand: "Amd",
+  generation: 7000,
+  name: "Ryzen 9 7900X",
+  socket: "am5",
+  tdp_w: 170,
+  image: Ryzen_9_7900X
+},
+{
+  brand: "Amd",
+  generation: 7000,
+  name: "Ryzen 9 7950X",
+  socket: "am5",
+  tdp_w: 170,
+  image: Ryzen_9_7950X
+},
+{
+  brand: "Amd",
+  generation: 7000,
+  name: "Ryzen 7 7800X3D",
+  socket: "am5",
+  tdp_w: 120,
+  image: Ryzen_7_7800X3D
+},
+{
+  brand: "Amd",
+  generation: 8000,
+  name: "Ryzen 7 8700G",
+  socket: "am5",
+  tdp_w: 65,
+  image: Ryzen_7_8700G
+},
+{
+  brand: "Amd",
+  generation: 9000,
+  name: "Ryzen 9 9950X",
+  socket: "am5",
+  tdp_w: 170,
+  image: Ryzen_9_9950X
+}
 ];
 
 export default cpus;
